@@ -13,8 +13,8 @@ def Ret_Pregunta01():
     'Solar_Generation_TWh' y retornando ese valor en un dato de tipo entero.
     '''
     #Tu código aca:
-       
-    return None
+    x=5170   
+    return x
 
 
 def Ret_Pregunta02():
